@@ -390,3 +390,4 @@ function updateHistory(history) {
         historyElm.appendChild(tempHistory)
     })
 }
+// 6 min 43 sec on last video of stack learner channel
