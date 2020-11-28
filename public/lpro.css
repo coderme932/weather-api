@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Digital Clock Project Start */ 
+ /* #container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+h1#time {
+    text-align: center;
+    border: 10px solid darkgrey;
+    padding: 5px 0px;
+    background: #0f0f2d;
+    color: white;
+    border-radius: 2px;
+    height: 40px;
+}
+div#clock {
+    width: 230px;
+    margin: 250px auto;
+    border: 10px solid #464646;
+    border-radius: 10px;
+}
+body {
+    background: #13132f;
+} */
+/* Digital Clock Project End */
+
+/* copy redeem code project start */
+/* #container img{
+    width: 350px;
+    height:200px
+}
+#container{
+    width: 600px;
+    margin:0 auto;
+}
+input{
+    border: none;
+    outline: none;
+    font-size: 23px;
+    float: right;
+    color: rgb(116, 116, 116);
+}
+input::selection{
+    background: none;
+} */
+/* copy redeem code project End */
+
+/* no css on my datalist project start-end */
+
+/* tipcalculator project start */
+/* #results {
+	display: none;
+} */
+/* tipcalculator project End */
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#left {
+    width: 50%;
+    height: 100vh;
+}
+#right {
+    width: 50%;
+    min-height: 100vh;
+    background: palegreen;
+}
+#condition {
+    width: 100px;
+    height: auto;
+}
+#master-history {
+    display: none;
+}
